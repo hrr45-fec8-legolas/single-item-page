@@ -26,3 +26,16 @@ npm install
 
 ```node
 npm run build
+```
+
+## Seed DB
+
+```node
+npm run sed
+```
+
+## Start Server
+
+```node
+npm start
+```
