@@ -14,3 +14,15 @@ And on hover zooms in on the specific area of the mouse
 6. Mongodb
 7. Mongoose
 8. Css
+
+## Installation
+
+Use the package manager [npm](https://www.npmjs.com/get-npm) to install dependencies.
+```bash
+npm install
+```
+
+## Build
+
+```node
+npm run build
