@@ -4,3 +4,13 @@ Also, this module displays alternate images of the main item.
 And on hover zooms in on the specific area of the mouse
 
 ![Web Demo](demo/amazon.gif)
+
+## Technologies Used
+1. Node
+2. React
+3. Babel
+4. Webpack
+5. Express
+6. Mongodb
+7. Mongoose
+8. Css
